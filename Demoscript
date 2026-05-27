@@ -1,0 +1,142 @@
+WebGenie Demo Script
+
+Opening
+
+“Good morning everyone.
+
+Today I’ll be demonstrating WebGenie, an Agentic AI-powered portable browser plug-in designed to transform how employees interact with enterprise applications through intelligent AI agents capable of understanding user intent and coordinating multi-step workflows directly within the browser environment.
+
+WebGenie enables users to interact with webpages, enterprise applications, APIs, and connected systems using natural language — helping simplify complex workflows, reduce repetitive manual effort, and improve operational efficiency without requiring changes to browser core components.”
+
+⸻
+
+Home Screen
+
+(Show Home Screen)
+
+“This is the WebGenie home interface.
+
+Users interact with the platform using natural language prompts, similar to interacting with an AI assistant.
+
+The platform currently supports:
+
+* Chat and Summarization experiences,
+* Deep Research,
+* and Agent mode for intelligent workflow execution.”
+
+⸻
+
+Model Selection
+
+(Show Model Dropdown)
+
+“One important capability is support for multiple AI models.
+
+The current UI demonstrates how WebGenie is designed to support models such as:
+
+* GPT-4.1,
+* GPT-5,
+* Claude Opus,
+* Claude Sonnet,
+* and enterprise/custom models.
+
+While these integrations are still being expanded, the architecture is intentionally designed to support multiple models so workloads can be optimized based on reasoning complexity, latency, cost, and enterprise requirements.”
+
+⸻
+
+Agent Mode
+
+(Open Agent Mode)
+
+“In Agent mode, the user simply provides a natural language instruction.
+
+Based on the user’s intent, WebGenie can:
+
+* understand webpage context,
+* navigate browser applications,
+* connect with enterprise systems,
+* invoke APIs,
+* interact with connected applications,
+* and coordinate multi-step workflows dynamically.”
+
+⸻
+
+Connected Apps
+
+(Open Connected Apps Screen)
+
+“The connected apps section demonstrates how WebGenie is designed to integrate with enterprise systems such as:
+
+* Outlook,
+* Teams,
+* Jira,
+* GitHub,
+* and other enterprise applications.
+
+These are currently sample integrations that represent the broader extensibility model of the platform.
+
+Through APIs, connected integrations, and MCP-style orchestration capabilities, WebGenie is designed to coordinate actions across multiple enterprise systems as part of a unified workflow experience.”
+
+⸻
+
+Execution Flow & History
+
+(Open History / Execution Graph)
+
+“Once the workflow is executed, WebGenie captures the execution flow and presents it visually through the History view.
+
+Users can:
+
+* review how the agent performed the workflow,
+* replay or test the workflow again,
+* refine or modify execution steps,
+* and once satisfied, publish the workflow to the marketplace for reuse.”
+
+⸻
+
+Marketplace Vision
+
+“This allows successful workflows to evolve into reusable enterprise capabilities that can be shared and reused across teams and business functions.”
+
+⸻
+
+Architecture & Business Value
+
+“The architecture is designed around:
+
+* portable browser extensions,
+* AI orchestration services,
+* connected enterprise integrations,
+* execution tracing,
+* and governance/audit capabilities.
+
+The platform is designed for deployment through enterprise-supported browser extensions such as Chrome and Edge.
+
+From a business perspective, WebGenie aims to:
+
+* reduce repetitive manual effort,
+* improve workflow efficiency,
+* reduce context switching,
+* improve operational consistency,
+* and simplify cross-system workflow execution.
+
+For supported workflows, we estimate:
+
+* 60–75% reduction in task completion time,
+* and approximately 2x–3x productivity improvement.”
+
+⸻
+
+Closing
+
+“To summarize, WebGenie combines:
+
+* Agentic AI,
+* browser intelligence,
+* connected enterprise systems,
+* execution tracing,
+* and extensible multi-model capabilities
+
+to create a unified enterprise productivity and orchestration platform.
+
+Thank you, and I’ll now walk through the live demonstration.”
