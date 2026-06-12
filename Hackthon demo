@@ -1,0 +1,54 @@
+Good morning everyone.
+
+My name is Sridhar Ranganaboina. I lead the Innovation Pod under CAO Tech in the EP LOB.
+
+Let me get straight to the idea.
+
+What if we could convert any enterprise application into a CLI, Python package, NPM package, SDK, or even an MCP server automatically within a few minutes?
+
+That is exactly what App2Agent does.
+
+The inspiration came from a project I’m currently working on called WebGenie, an autonomous agentic browser. Users can simply give instructions such as:
+
+“Raise an access request for me.”
+
+or
+
+“I’m traveling to Mumbai next week. Find and book the best flight.”
+
+WebGenie can perform these tasks on behalf of the user.
+
+However, while building such agentic systems, we repeatedly encounter three challenges.
+
+First, UI automation. It works, but it introduces latency and can become unstable whenever application screens change.
+
+Second, API integrations. They are reliable, but every integration requires significant business logic, development effort, and ongoing maintenance.
+
+Third, MCP servers. They provide a great agent interface, but most enterprise applications do not have MCP servers readily available today.
+
+This is where App2Agent comes in.
+
+The idea is simple.
+
+Provide your application’s frontend repository as input, and App2Agent automatically analyzes the application, discovers workflows, generates APIs where required, and creates agent-ready interfaces.
+
+Within minutes, it can generate:
+
+• CLI tools
+• Python packages
+• NPM packages
+• Java/Maven SDKs
+• MCP servers
+• Smart Agent SDKs
+
+But generation is only part of the solution.
+
+App2Agent also automatically tests, validates, and packages these artifacts for enterprise consumption.
+
+On top of that, it provides an App2Agent Hub — a governed marketplace where generated assets can be securely published and consumed by chatbots, AI agents, copilots, and automation platforms across the organization.
+
+In short, App2Agent transforms existing enterprise applications into agent-ready capabilities, dramatically reducing integration effort and accelerating enterprise AI adoption.
+
+Instead of spending weeks building integrations, teams can onboard applications into the agent ecosystem in minutes.
+
+Thank you.
